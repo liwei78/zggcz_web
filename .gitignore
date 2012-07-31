@@ -1,0 +1,6 @@
+data/cache/*
+data/tplcache/*
+html/*
+index.html
+uploads/*
+
