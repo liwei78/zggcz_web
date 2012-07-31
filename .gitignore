@@ -1,4 +1,4 @@
-data/cache/*
+data/sessions/*
 data/tplcache/*
 html/*
 index.html
